@@ -4,52 +4,62 @@
   <img src="./banner.png" alt="Mukund Patil Banner" />
 </div>
 
-
-<h3 align="center">DevOps and Cloud Enthusiast skilled in AWS, Docker, Kubernetes, Terraform, Jenkins, and Ansible </h3>
-
+<h3 align="center">DevOps and Cloud Enthusiast skilled in AWS, Docker, Kubernetes, Terraform, Jenkins, and Ansible</h3>
 
 <p align="center">
   <a href="https://github.com/mukund-p">
     <img src="https://img.shields.io/github/followers/mukund-p?label=Follow&style=social" />
   </a>
-  
   <a href="https://linkedin.com/in/mukund-p">
     <img src="https://img.shields.io/badge/LinkedIn-Mukund%20Patil-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mukund-p&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-
 - 📚 Check out my GitHub for crisp, structured notes on DevOps, Cloud, and more!
-
-- 📫 How to reach me mukundpatil2001@gmail.com
-
-- 📄 Learn more about my skills, projects, and educational background: [My Resume](https://drive.google.com/file/d/1muI59fYjg1-IA4-wbz1pcRzhwQtZ_Eio/view?usp=drive_link)
+- 📫 How to reach me: mukundpatil2001@gmail.com
+- 📄 Learn more about my skills and projects on [LinkedIn](https://www.linkedin.com/in/mukund-p/)
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://www.svgrepo.com/show/376331/kubernetes.svg" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/448221/docker.svg" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/448266/aws.svg" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/448253/terraform.svg" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/349298/ansible.svg" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/452210/git.svg" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/452054/linux.svg" width="40" height="40"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jenkins-icon.svg" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/354454/tomcat.svg" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/373829/maven.svg" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="40" height="40"/>
+## 🛠️ Tools & Technologies
 
-  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/512317/github-142.svg" width="40" height="40"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Groovy-4298B8?logo=apachegroovy&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/YAML-000?logo=yaml&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Load_Balancer-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/VPC-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?logo=apachemaven&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apachetomcat&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?logo=amazon-s3&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/IAM-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/SNS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/EFS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/CloudTrail-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/IIS-0078D7?logo=microsoft&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Apache_HTTPD-D22128?logo=apache&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/RDS_MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/DNS-0078D7?logo=internetexplorer&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" />
 </p>
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukund-p&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
@@ -60,7 +70,6 @@
 ### 🔥 GitHub Contribution Streak
 
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
-
 
 ---
 
@@ -115,3 +124,10 @@
 ---
 
 ⚡ **Fun fact:** I believe in "Automate Everything" to improve system reliability and efficiency.
+
+---
+
+<h2 align="center"> Thank you for visiting my GitHub! 🌟 </h2>
+
+<h3 align="center"> Let's connect, collaborate, and grow together! </h3>
+
