@@ -64,11 +64,6 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mukund-p&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
----
-
 ## 📚 Certifications
 
 - 🛡️ [AWS DevOps Masterclass - TrainWithShubham](https://www.trainwithshubham.com/share-certificate?serialno=991Q6GHU)
