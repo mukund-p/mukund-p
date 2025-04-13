@@ -94,15 +94,11 @@
 
 ## 🛠️ Skills & Tools
 
-- **Cloud:** AWS (EC2, S3, VPC, IAM, RDS, EFS, SNS, CloudTrail, CloudWatch)
-- **DevOps Tools:** Docker, Kubernetes, Terraform, Jenkins, Ansible
-- **CI/CD:** Git, GitHub, Apache Maven
-- **Web Servers & Proxies:** Apache Tomcat, Apache HTTPD, NGINX, IIS Web Server
-- **Storage:** AWS S3, EFS, EBS, RDS
-- **Scripting:** Shell Scripting, YAML, Groovy
-- **Operating Systems:** Linux (RHEL, Ubuntu, CentOS), Windows
-- **Monitoring:** AWS CloudWatch, CloudTrail
-- **Load Balancers:** AWS Load Balancers
+- **Cloud:** EC2, VPC, S3, EFS, EBS, RDS, IAM, SNS, CloudWatch, CloudTrail, Load Balancers, DNS
+- **DevOps:** Docker, Kubernetes, Terraform, Jenkins, Ansible, Git, GitHub, Maven
+- **Web Servers:** Apache Tomcat, HTTPD, NGINX, IIS 
+- **Scripting:** Shell, YAML, Groovy
+- **OS:** Linux (RHEL, Ubuntu), Windows
 
 ---
 
