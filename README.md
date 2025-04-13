@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Mukund Patil</h1>
 
 <div align="center">
-  <img src="./banner.png" alt="Mukund Patil Banner" />
+  <img src="./banner2.png" alt="Mukund Patil Banner" />
 </div>
 
 <h3 align="center">DevOps and Cloud Enthusiast skilled in AWS, Docker, Kubernetes, Terraform, Jenkins, and Ansible</h3>
