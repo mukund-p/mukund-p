@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Mukund Patil</h1>
+<h1 align="center">Welcome to My GitHub 🌟</h1>
 
 <div align="center">
   <img src="./banner.png" alt="Mukund Patil Banner" />
