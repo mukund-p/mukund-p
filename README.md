@@ -61,10 +61,19 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukund-p&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true&icon_color=505050" alt="Top Langs" /></p>
+<!-- Top Languages Card -->
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mukund-p&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mukund-p&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukund-p&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" alt="Top Langs" />
+</picture>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukund-p&show_icons=true&locale=en&theme=vue&hide_border=true&icon_color=505050" alt="GitHub Stats" /></p>
-
+<!-- GitHub Stats Card -->
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=mukund-p&show_icons=true&locale=en&theme=github_dark&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=mukund-p&show_icons=true&locale=en&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mukund-p&show_icons=true&locale=en&theme=default&hide_border=true" alt="GitHub Stats" />
+</picture>
 
 
 ---
