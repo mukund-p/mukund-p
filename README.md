@@ -19,13 +19,13 @@
   <img src="https://komarev.com/ghpvc/?username=mukund-p&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 📚 Check out my GitHub for crisp, structured notes on DevOps, Cloud, and more!
-- 📫 How to reach me: mukundpatil2001@gmail.com
-- 📄 Learn more about my skills and projects on [LinkedIn](https://www.linkedin.com/in/mukund-p/)
+- Check out my GitHub for crisp, structured notes on DevOps, Cloud, and more!
+- How to reach me: mukundpatil2001@gmail.com
+- Learn more about my skills and projects on [LinkedIn](https://www.linkedin.com/in/mukund-p/)
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white&style=flat-square" />
@@ -78,21 +78,22 @@
 
 ---
 
-### 🔥 GitHub Contribution Streak
+### GitHub Contribution Streak
 
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 
 ---
 
-## 📚 Certifications
+## Certifications
 
-- 🛡️ [AWS DevOps Masterclass - TrainWithShubham](https://www.trainwithshubham.com/share-certificate?serialno=991Q6GHU)
-- 📜 [Cloud Computing and DevOps A to Z - Google Developer Student Clubs](https://www.cert.devtown.in/verify/Z1PW9qG)
-- 🎯 [Getting Started with DevOps - GUVI](https://drive.google.com/file/d/18OKlmD2uPuxNiPcHH7tTFI9_CVQzW6W9/view)
+-  [AWS DevOps Masterclass - TrainWithShubham](https://www.trainwithshubham.com/share-certificate?serialno=991Q6GHU)
+-  [Cloud Computing and DevOps A to Z - Google Developer Student Clubs](https://www.cert.devtown.in/verify/Z1PW9qG)
+-  [Getting Started with DevOps - GUVI](https://drive.google.com/file/d/18OKlmD2uPuxNiPcHH7tTFI9_CVQzW6W9/view)
+-  [Developer Practitioner - Solace](https://www.credly.com/badges/2d412685-d156-4d8f-807c-b4ac21327c5d)
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 - **Cloud:** EC2, VPC, S3, EFS, EBS, RDS, IAM, SNS, CloudWatch, CloudTrail, Load Balancers, DNS
 - **DevOps:** Docker, Kubernetes, Terraform, Jenkins, Ansible, Git, GitHub, Maven
@@ -102,14 +103,14 @@
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 - Automated 90% of Java application deployment steps through CI/CD pipelines.
 - Reduced deployment time and eliminated manual errors via Maven, Jenkins, Docker, and Ansible automation.
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### Automated Deployment of Java Apps using Jenkins & Docker
 **Tools Used**: Git, Maven, Jenkins, Docker, Ansible
@@ -121,7 +122,7 @@
 
 ---
 
-## 💬 Soft Skills
+## Soft Skills
 
 - Attention to Detail
 - Continuous Learning
