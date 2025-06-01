@@ -4,8 +4,6 @@
   <img src="./banner.png" alt="Mukund Patil Banner" />
 </div>
 
-<h3 align="center">DevOps and Cloud Enthusiast skilled in AWS, Docker, Kubernetes, Terraform, Jenkins, and Ansible</h3>
-
 <p align="center">
   <a href="https://github.com/mukund-p">
     <img src="https://img.shields.io/github/followers/mukund-p?label=Follow&style=social" />
