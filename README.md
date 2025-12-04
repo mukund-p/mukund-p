@@ -42,6 +42,8 @@
 -  [Cloud Computing and DevOps A to Z - Google Developer Student Clubs](https://www.cert.devtown.in/verify/Z1PW9qG)
 -  [Getting Started with DevOps - GUVI](https://drive.google.com/file/d/18OKlmD2uPuxNiPcHH7tTFI9_CVQzW6W9/view)
 -  [Developer Practitioner - Solace](https://www.credly.com/badges/2d412685-d156-4d8f-807c-b4ac21327c5d)
+-  [Event Driven Architecture Practitioner - Solace](https://www.credly.com/badges/73eff019-043e-4a40-8f48-347962d2d181)
+-  [Solutions Consultant - Solace](https://www.credly.com/badges/59cef15c-2590-4199-a9b1-ac3bdd423cf2)
 
 ---
 
