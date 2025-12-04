@@ -1,22 +1,5 @@
 <h1 align="center">Welcome to My GitHub 🌟</h1>
 
-<div align="center">
-  <img src="./banner.png" alt="Mukund Patil Banner" />
-</div>
-
-<p align="center">
-  <a href="https://github.com/mukund-p">
-    <img src="https://img.shields.io/github/followers/mukund-p?label=Follow&style=social" />
-  </a>
-  <a href="https://linkedin.com/in/mukund-p">
-    <img src="https://img.shields.io/badge/LinkedIn-Mukund%20Patil-blue?logo=linkedin&style=flat-square" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mukund-p&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 - Check out my GitHub for crisp, structured notes on DevOps, Cloud, and more!
 - How to reach me: mukundpatil2001@gmail.com
 - Learn more about my skills and projects on [LinkedIn](https://www.linkedin.com/in/mukund-p/)
@@ -59,29 +42,6 @@
 
 ---
 
-<!-- Top Languages Card -->
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mukund-p&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mukund-p&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukund-p&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" alt="Top Langs" />
-</picture>
-
-<!-- GitHub Stats Card -->
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=mukund-p&show_icons=true&locale=en&theme=github_dark&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=mukund-p&show_icons=true&locale=en&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mukund-p&show_icons=true&locale=en&theme=default&hide_border=true" alt="GitHub Stats" />
-</picture>
-
-
----
-
-### GitHub Contribution Streak
-
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
-
----
-
 ## Certifications
 
 -  [AWS DevOps Masterclass - TrainWithShubham](https://www.trainwithshubham.com/share-certificate?serialno=991Q6GHU)
@@ -93,11 +53,16 @@
 
 ## Skills & Tools
 
-- **Cloud:** EC2, VPC, S3, EFS, EBS, RDS, IAM, SNS, CloudWatch, CloudTrail, Load Balancers, DNS
-- **DevOps:** Docker, Kubernetes, Terraform, Jenkins, Ansible, Git, GitHub, Maven
-- **Web Servers:** Apache Tomcat, HTTPD, NGINX, IIS 
-- **Scripting:** Shell, YAML, Groovy
-- **OS:** Linux (RHEL, Ubuntu), Windows
+- **Cloud Services:** AWS (EC2, VPC, S3, IAM, EFS, EBS, RDS, CloudWatch, CloudTrail, SNS)
+- **CI/CD & Automation:** Jenkins, Ansible
+- **Containerization & Orchestration:** Docker, Kubernetes, AKS, GKE, OpenShift
+- **Infrastructure as Code (IaC):** Terraform
+- **Version Control:** Git, GitHub
+- **Monitoring & Logging:** CloudWatch, CloudTrail, Datadog
+- **Operating Systems:** Linux, Windows, Mac
+- **Scripting & Configuration:** Shell Scripting, Groovy, YAML
+- **Build & Application Servers:** Apache Maven, Apache HTTPD, Apache Tomcat, Nginx, IIS Web Server
+- **Project & Collaboration Tools:** Jira, Confluence
 
 ---
 
