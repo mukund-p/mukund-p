@@ -1,11 +1,5 @@
 <h1 align="center">Welcome to My GitHub 🌟</h1>
 
-- Check out my GitHub for crisp, structured notes on DevOps, Cloud, and more!
-- How to reach me: mukundpatil2001@gmail.com
-- Learn more about my skills and projects on [LinkedIn](https://www.linkedin.com/in/mukund-p/)
-
----
-
 ## Tools & Technologies
 
 <p align="left">
